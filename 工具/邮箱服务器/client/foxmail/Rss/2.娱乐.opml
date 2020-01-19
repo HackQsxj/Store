@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>2.娱乐</title>
+	</head>
+	<body>
+		<outline text="糗事百科" title="糗事百科" type="rss" version="RSS" xmlUrl="http://feed.feedsky.com/qiushi" htmlUrl="http://feed.feedsky.com/" description=""/>
+		<outline text="星闻" title="腾讯 - 星闻" type="rss" version="RSS" xmlUrl="http://ent.qq.com/newxw/xingwen_rss.xml" htmlUrl="http://ent.qq.com/newxw/" description=""/>
+		<outline text="新浪 - 单机游戏" title="新浪 - 游戏新闻" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/games/djyx.xml" htmlUrl="http://games.sina.com.cn/news/djyx/index2.shtml" description=""/>
+		<outline text="百度娱乐新闻" title="百度 - 娱乐新闻" type="rss" version="RSS" xmlUrl="http://news.baidu.com/n?cmd=4&amp;class=enternews&amp;pn=1&amp;tn=rss" htmlUrl="http://news.baidu.com" description=""/>
+		<outline text="新华网 - 文娱新闻" title="新华网 - 文娱新闻" type="rss" version="RSS" xmlUrl="http://rss.xinhuanet.com/rss/ent.xml" htmlUrl="http://www.xinhuanet.com/" description=""/>
+	</body>
+</opml>

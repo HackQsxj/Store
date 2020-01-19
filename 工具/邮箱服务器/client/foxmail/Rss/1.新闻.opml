@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>1.新闻</title>
+	</head>
+	<body>
+		<outline text="QQ新闻" title="腾讯 - 国内新闻" type="rss" version="RSS" xmlUrl="http://news.qq.com/newsgn/rss_newsgn.xml" htmlUrl="news.qq.com" description=""/>
+		<outline text="QQ新闻" title="腾讯 - 国际新闻" type="rss" version="RSS" xmlUrl="http://news.qq.com/newsgj/rss_newswj.xml" htmlUrl="news.qq.com" description=""/>
+		<outline text="QQ新闻" title="腾讯 - 社会新闻" type="rss" version="RSS" xmlUrl="http://news.qq.com/newssh/rss_newssh.xml" htmlUrl="news.qq.com" description=""/>
+		<outline text="QQ新闻" title="腾讯 - 财经新闻" type="rss" version="RSS" xmlUrl="http://finance.qq.com/scroll/rss_scroll.xml" htmlUrl="news.qq.com" description=""/>
+		<outline text="QQ新闻" title="腾讯 - 体育新闻" type="rss" version="RSS" xmlUrl="http://sports.qq.com/others/rss_others.xml" htmlUrl="news.qq.com" description=""/>		
+		<outline text="新浪 - 新闻要闻" title="新浪 - 新闻要闻" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/news/marquee/ddt.xml" htmlUrl="http://news.sina.com.cn" description=""/>
+		<outline text="社会新闻-焦点新闻" title="新浪 - 社会新闻" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/news/society/focus15.xml" htmlUrl="http://news.sina.com.cn/society/index.shtml" description=""/>
+		<outline text="新浪 - 体育新闻" title="新浪 - 体育新闻" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/news/allnews/sports.xml" htmlUrl="http://sports.sina.com.cn" description=""/>
+		<outline text="新华网 - 国内新闻" title="新华网 - 国内新闻" type="rss" version="RSS" xmlUrl="http://rss.xinhuanet.com/rss/native.xml" htmlUrl="http://www.xinhuanet.com/" description=""/>
+		<outline text="新华网 - 国际新闻" title="新华网 - 国际新闻" type="rss" version="RSS" xmlUrl="http://rss.xinhuanet.com/rss/world.xml" htmlUrl="http://www.xinhuanet.com/" description=""/>
+		<outline text="新华网 - 体育新闻" title="新华网 - 体育新闻" type="rss" version="RSS" xmlUrl="http://rss.xinhuanet.com/rss/sports.xml" htmlUrl="http://www.xinhuanet.com/" description=""/>
+		<outline text="新华网 - 军事新闻" title="新华网 - 军事新闻" type="rss" version="RSS" xmlUrl="http://rss.xinhuanet.com/rss/mil.xml" htmlUrl="http://www.xinhuanet.com/" description=""/>
+		<outline text="百度 - 科技新闻" title="百度 - 科技新闻" type="rss" version="RSS" xmlUrl="http://news.baidu.com/n?cmd=4&amp;class=technnews&amp;pn=1&amp;tn=rss" htmlUrl="http://news.baidu.com" description=""/>
+		<outline text="百度体育新闻" title="百度 - 体育新闻" type="rss" version="RSS" xmlUrl="http://news.baidu.com/n?cmd=4&amp;class=sportnews&amp;pn=1&amp;tn=rss" htmlUrl="http://news.baidu.com" description=""/>
+		<outline text="百度 - 财经新闻" title="百度 - 财经新闻" type="rss" version="RSS" xmlUrl="http://news.baidu.com/n?cmd=4&amp;class=finannews&amp;pn=1&amp;tn=rss" htmlUrl="http://news.baidu.com" description=""/>
+		<outline text="百度 - 互联网新闻" title="百度 - 互联网新闻" type="rss" version="RSS" xmlUrl="http://news.baidu.com/n?cmd=4&amp;class=internet&amp;pn=1&amp;tn=rss" htmlUrl="http://news.baidu.com" description=""/>
+	</body>
+</opml>

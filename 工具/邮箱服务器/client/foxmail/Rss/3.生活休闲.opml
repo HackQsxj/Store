@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>3.生活休闲</title>
+	</head>
+	<body>
+		<outline text="国产新车快报" title="新浪 - 国产车讯" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/auto/z/guochanche/1.xml" htmlUrl="http://auto.sina.com.cn/z/guochanche/1.shtml" description=""/>
+		<outline text="海外车讯" title="新浪 - 海外车讯" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/auto/z/2002-10newcar/6.xml" htmlUrl="http://auto.sina.com.cn/z/2002-10newcar/6.shtml" description=""/>
+		<outline text="广东新闻-时尚生活" title="新浪 - 广东时尚生活" type="rss" version="RSS" xmlUrl="http://gd.news.sina.com.cn/rss/life.xml" htmlUrl="http://life.gd.sina.com.cn/" description=""/>
+	</body>
+</opml>

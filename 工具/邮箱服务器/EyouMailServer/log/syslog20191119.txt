@@ -1,0 +1,16 @@
+[System]
+Index=15
+[2019-11-19 21:49:07] 邮件服务系统启动.
+[2019-11-19 21:52:03] SMTP 127.0.0.1 mail from admin@store.com to 1232@qq.com in queue.
+[2019-11-19 21:52:03] INTERNET send mail [1 times] from <admin@store.com> to <1232@qq.com> ...
+[2019-11-19 21:53:48] INTERNET send mail [1 times] from <admin@store.com> to <1232@qq.com> FAILED: WSAETIMEDOUT
+[2019-11-19 21:53:48] INTERNET send mail [2 times] from <admin@store.com> to <1232@qq.com> ...
+[2019-11-19 21:55:33] INTERNET send mail [2 times] from <admin@store.com> to <1232@qq.com> FAILED: WSAETIMEDOUT
+[2019-11-19 21:55:33] INTERNET send mail [3 times] from <admin@store.com> to <1232@qq.com> ...
+[2019-11-19 21:56:21] SMTP 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+[2019-11-19 21:57:18] INTERNET send mail [3 times] from <admin@store.com> to <1232@qq.com> FAILED: WSAETIMEDOUT
+[2019-11-19 21:57:19] INTERNET send mail [4 times] from <admin@store.com> to <1232@qq.com> ...
+[2019-11-19 21:59:04] INTERNET send mail [4 times] from <admin@store.com> to <1232@qq.com> FAILED: WSAETIMEDOUT
+[2019-11-19 21:59:04] INTERNET send mail [5 times] from <admin@store.com> to <1232@qq.com> ...
+[2019-11-19 22:00:49] INTERNET send mail [5 times] from <admin@store.com> to <1232@qq.com> FAILED: WSAETIMEDOUT
+[2019-11-19 22:00:49] SMTP MailUndeliverable mail from admin to admin@store.com successfully

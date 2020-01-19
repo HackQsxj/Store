@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>4.读书</title>
+	</head>
+	<body>
+		<outline text="新浪 - 小说" title="新浪 - 小说频道" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/book/tuijian/lit.xml" htmlUrl="http://rss.sina.com.cn/book/book_list.shtml" description=""/>
+		<outline text="新浪 - 生活时尚" title="新浪 - 生活时尚" type="rss" version="RSS" xmlUrl="http://rss.sina.com.cn/book/tuijian/liv.xml" htmlUrl="http://rss.sina.com.cn/book/book_list.shtml" description=""/>
+	</body>
+</opml>

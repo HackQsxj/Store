@@ -1,0 +1,1 @@
+<%=IDS_MAIL_SERVER%> WebMail

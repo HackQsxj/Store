@@ -1,0 +1,12 @@
+[System]
+Index=11
+2019/08/02 21:13:21 127.0.0.1 ESMTP authentication: aaa
+2019/08/02 21:13:21 127.0.0.1 mail from aaa@store.com to aaa@store.com successfully
+2019/08/02 21:17:26 127.0.0.1 ESMTP authentication: bbb
+2019/08/02 21:17:26 127.0.0.1 mail from bbb@store.com to bbb@store.com successfully
+2019/08/02 21:19:33 127.0.0.1 ESMTP authentication: aaa
+2019/08/02 21:19:33 127.0.0.1 mail from aaa@store.com to bbb@store.com successfully
+2019/08/02 21:48:46 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+2019/08/02 21:53:25 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+2019/08/02 21:55:28 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+2019/08/02 22:02:36 127.0.0.1 mail from admin@store.com to aaa@store.com successfully

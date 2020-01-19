@@ -1,0 +1,52 @@
+S
+X-Uidl: ccc.store.com.cmailserver.1&&localhost
+Received: from WelcomeEmail (localhost [127.0.0.1])
+	by laptop-sd8iibr2.com with CMailServer 5.2 SMTP; Fri, 02 Aug 2019 21:06:29 +0800
+Received: from localhost (localhost [127.0.0.1])
+	by laptop-sd8iibr2.com with CMailServer 5.2 SMTP; Fri, 02 Aug 2019 21:06:29 +0800
+From: admin@laptop-sd8iibr2.com
+To: newuser@laptop-sd8iibr2.com
+Date: Fri, 02 Aug 2019 21:06:29 +0800
+Subject: 欢迎使用邮件服务系统
+X-Mailer: CMailServer
+
+
+邮件服务系统
+
+
+
+S
+X-Uidl: ccc.store.com.cmailserver.2&&localhost
+Return-Path: <ccc@store.com>
+Received: from LAPTOP-SD8IIBR2 (unknown [127.0.0.1])
+	by store.com with CMailServer 5.2 SMTP; Sat, 03 Aug 2019 11:07:14 +0800
+Date: Sat, 3 Aug 2019 11:07:14 +0800
+From: "ccc" <ccc@store.com>
+To: "ccc" <ccc@store.com>
+Subject: =?gb2312?B?Rm94bWFpbCCy4srUz/vPog==?=
+Message-ID: <201908031107145378677@store.com>
+X-mailer: Foxmail 6, 15, 201, 22 [cn]
+
+在测试您的 SMTP 设置时， Foxmail 会自动发送该电子邮件。
+
+
+S
+X-Uidl: ccc.store.com.cmailserver.3&&localhost
+Return-Path: <admin@store.com>
+Received: from LAPTOP-SD8IIBR2 (unknown [127.0.0.1])
+	by store.com with CMailServer 5.2 SMTP; Sat, 03 Aug 2019 11:07:54 +0800
+From: admin@store.com
+To: ccc@store.com
+Message-ID: <1657796554.0.1564801665576.JavaMail.Lenovo@LAPTOP-SD8IIBR2>
+Subject: =?UTF-8?B?55So5oi35r+A5rS7?=
+MIME-Version: 1.0
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<h1>=E6=9D=A5=E8=87=AA=E8=B4=AD=E7=89=A9=E5=A4=A9=E5=A0=82=E7=9A=84=E6=BF=
+=80=E6=B4=BB=E9=82=AE=E4=BB=B6!=E6=BF=80=E6=B4=BB=E8=AF=B7=E7=82=B9=E5=87=
+=BB=E4=BB=A5=E4=B8=8B=E9=93=BE=E6=8E=A5!</h1><h3><a href=3D'http://localhos=
+t:8080/Demo16Store/UserServlet?method=3Dactive&code=3D61C9091EDBCB42C591714=
+24F04C5B377'>http://localhost:8080/Demo16Store/UserServlet?method=3Dactive&=
+code=3D61C9091EDBCB42C59171424F04C5B377</a></h3>
+

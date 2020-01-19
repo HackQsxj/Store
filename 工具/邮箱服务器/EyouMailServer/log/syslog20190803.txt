@@ -1,0 +1,17 @@
+[System]
+Index=16
+[2019-08-03 08:46:56] 邮件服务系统启动.
+[2019-08-03 08:53:15] SMTP 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+[2019-08-03 08:53:33] POP3 127.0.0.1 aaa
+[2019-08-03 11:07:14] POP3 127.0.0.1 ccc
+[2019-08-03 11:07:14] SMTP 127.0.0.1 ESMTP authentication: ccc
+[2019-08-03 11:07:14] SMTP 127.0.0.1 mail from ccc@store.com to ccc@store.com successfully
+[2019-08-03 11:07:54] SMTP 127.0.0.1 mail from admin@store.com to ccc@store.com successfully
+[2019-08-03 11:08:05] POP3 127.0.0.1 ccc
+[2019-08-03 18:03:36] 邮件服务系统启动.
+[2019-08-03 18:04:05] POP3 127.0.0.1 aaa
+[2019-08-03 18:04:07] POP3 127.0.0.1 aaa
+[2019-08-03 18:04:51] SMTP 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+[2019-08-03 18:05:42] POP3 127.0.0.1 aaa
+[2019-08-03 18:08:21] SMTP 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+[2019-08-03 18:08:35] POP3 127.0.0.1 aaa

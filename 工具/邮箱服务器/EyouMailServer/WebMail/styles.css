@@ -1,0 +1,70 @@
+DIV {
+	POSITION: absolute;
+	background-color: #FFCC99;
+
+}
+BODY {
+BACKGROUND-REPEAT: repeat-x;
+//*SCROLLBAR-FACE-COLOR: #FFCC99;
+SCROLLBAR-HIGHLIGHT-COLOR: #FFCC99;
+SCROLLBAR-SHADOW-COLOR: #FFCC99;
+SCROLLBAR-3DLIGHT-COLOR: #FFCC99;
+SCROLLBAR-ARROW-COLOR: #FFCC99;
+SCROLLBAR-TRACK-COLOR: #FFCC99;
+SCROLLBAR-DARKSHADOW-COLOR: #FFCC99
+SCROLLBAR-BASE-COLOR: #FFCC99
+*//
+}
+TD {FONT-FAMILY: arial,helvetica; FONT-SIZE: 12px}
+P {FONT-FAMILY: arial,helvetica; FONT-SIZE: 12px}
+B {FONT-FAMILY: arial,helvetica; FONT-SIZE: 12px}
+DIV {FONT-FAMILY: arial,helvetica; FONT-SIZE: 12px}
+A {COLOR: #000000; TEXT-DECORATION: none}
+A:hover {
+	TEXT-DECORATION: underline;
+	color: #000000;
+}
+.clWin {BACKGROUND-COLOR: #336699; POSITION: absolute; VISIBILITY: hidden; Z-INDEX: 2; layer-background-color: #336699}
+.clWindow {BACKGROUND-COLOR: white; LEFT: 1px; OVERFLOW: hidden; TOP: 14px; WIDTH: 250px; Z-INDEX: 15; layer-background-color: white}
+.clWinHead {BACKGROUND-COLOR: transparent; COLOR: white; FONT-FAMILY: arial,arial,helvetica; FONT-SIZE: 11px; FONT-WEIGHT: bold; HEIGHT: 14px; TOP: 0px; WIDTH: 250px}
+.clText {BACKGROUND-COLOR: transparent; FONT-FAMILY: arial,helvetica; FONT-SIZE: 11px; LEFT: 2px; TOP: 2px; Z-INDEX: 50}
+.clWinResize {BACKGROUND-IMAGE: url(/images/resize.gif); CLIP: rect(0px 13px 9px 0px); HEIGHT: 8px; WIDTH: 13px; Z-INDEX: 30; layer-background-image: url(/images/resize.gif)}
+.clUp {BACKGROUND-COLOR: #eef3f9; HEIGHT: 12px; WIDTH: 12px; Z-INDEX: 60; layer-background-color: #EEF3F9}
+.clDown {BACKGROUND-COLOR: #eef3f9; HEIGHT: 12px; WIDTH: 12px; Z-INDEX: 60; layer-background-color: #EEF3F9}
+.clHeading {COLOR: black; FONT-FAMILY: arial,helvetica; FONT-SIZE: 20px; FONT-WEIGHT: bold}
+.clHeading2 {COLOR: white; FONT-FAMILY: arial,helvetica; FONT-SIZE: 13px; FONT-WEIGHT: bold}
+.clWinHeading {	COLOR: black; FONT-FAMILY: arial,helvetica; FONT-SIZE: 15px; FONT-WEIGHT: bold}
+.clWinBy {	COLOR: #777777; FONT-FAMILY: arial,helvetica; FONT-SIZE: 10px}
+.clWinText {	COLOR: black; FONT-FAMILY: arial,helvetica; FONT-SIZE: 12px}
+A.clWinLink {	FONT-FAMILY: arial,helvetica; FONT-SIZE: 12px}
+A.clLinkSmall {	FONT-SIZE: 10px}
+.clInSearch {	WIDTH: 110px}
+.clInput {FONT-FAMILY: arial,helvetica; FONT-SIZE: 11px}
+.clInput {BACKGROUND-COLOR: #cddbeb; FONT-FAMILY: arial,helvetica; FONT-SIZE: 11px}
+#divLogo {
+	LEFT: 8px; POSITION: absolute; TOP: 84px; Z-INDEX: 890
+}
+PRE {
+	COLOR: red; FONT-FAMILY: Courier new; FONT-SIZE: 11px
+}
+CODE {
+	COLOR: red; FONT-FAMILY: Courier new; FONT-SIZE: 12px
+}
+.clItems {
+	POSITION: absolute; VISIBILITY: hidden
+}
+A.clM {
+	COLOR: white; FONT-FAMILY: arial,helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.clM:hover {
+	COLOR: #fcce55; TEXT-DECORATION: none
+}
+#divMode {
+	HEIGHT: 5px; VISIBILITY: hidden; WIDTH: 80px
+}
+.clMode {
+	COLOR: #336699; FONT-FAMILY: arial,helvetica; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+.clLine {
+	BACKGROUND-COLOR: #fcce55; CLIP: rect(0px 100% 1px 0px); HEIGHT: 1px; OVERFLOW: hidden; POSITION: relative; WIDTH: 100%; Z-INDEX: 1; layer-background-color: #FCCE55
+}

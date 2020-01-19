@@ -1,0 +1,80 @@
+S
+X-Uidl: bbb.store.com.cmailserver.1&&localhost
+Received: from WelcomeEmail (localhost [127.0.0.1])
+	by laptop-sd8iibr2.com with CMailServer 5.2 SMTP; Fri, 02 Aug 2019 21:06:29 +0800
+Received: from localhost (localhost [127.0.0.1])
+	by laptop-sd8iibr2.com with CMailServer 5.2 SMTP; Fri, 02 Aug 2019 21:06:29 +0800
+From: admin@laptop-sd8iibr2.com
+To: newuser@laptop-sd8iibr2.com
+Date: Fri, 02 Aug 2019 21:06:29 +0800
+Subject: 欢迎使用邮件服务系统
+X-Mailer: CMailServer
+
+
+邮件服务系统
+
+
+
+S
+X-Uidl: bbb.store.com.cmailserver.2&&localhost
+Return-Path: <bbb@store.com>
+Received: from LAPTOP-SD8IIBR2 (unknown [127.0.0.1])
+	by store.com with CMailServer 5.2 SMTP; Fri, 02 Aug 2019 21:17:26 +0800
+Date: Fri, 2 Aug 2019 21:17:26 +0800
+From: "bbb" <bbb@store.com>
+To: "bbb" <bbb@store.com>
+Subject: =?gb2312?B?Rm94bWFpbCCy4srUz/vPog==?=
+Message-ID: <201908022117268419354@store.com>
+X-mailer: Foxmail 6, 15, 201, 22 [cn]
+
+在测试您的 SMTP 设置时， Foxmail 会自动发送该电子邮件。
+
+
+S
+X-Uidl: bbb.store.com.cmailserver.3&&localhost
+Return-Path: <aaa@store.com>
+Received: from LAPTOP-SD8IIBR2 (unknown [127.0.0.1])
+	by store.com with CMailServer 5.2 SMTP; Fri, 02 Aug 2019 21:19:33 +0800
+Date: Fri, 2 Aug 2019 21:19:33 +0800
+From: "aaa" <aaa@store.com>
+To: "bbb" <bbb@store.com>
+Subject: =?gb2312?B?suLK1NPKvP6jqGFhYaOp?=
+Message-ID: <201908022119333129842@store.com>
+X-mailer: Foxmail 6, 15, 201, 22 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon535367047255_====="
+
+
+This is a multi-part message in MIME format.
+
+--=====003_Dragon535367047255_=====
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+ztLKx8C019RhYWG1xNDFz6INCg0KMjAxOS0wOC0wMiANCg0KDQoNCmFhYSANCg==
+
+--=====003_Dragon535367047255_=====
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PWdi
+MjMxMiIgaHR0cC1lcXVpdj1Db250ZW50LVR5cGU+DQo8TUVUQSBuYW1lPUdFTkVSQVRPUiBjb250
+ZW50PSJNU0hUTUwgMTEuMDAuMTA1NzAuMTAwMSI+PExJTksgcmVsPXN0eWxlc2hlZXQgDQpocmVm
+PSJCTE9DS1FVT1RFe21hcmdpbi1Ub3A6IDBweDsgbWFyZ2luLUJvdHRvbTogMHB4OyBtYXJnaW4t
+TGVmdDogMmVtfSI+PC9IRUFEPg0KPEJPRFkgc3R5bGU9IkZPTlQtU0laRTogMTBwdDsgRk9OVC1G
+QU1JTFk6IHZlcmRhbmE7IE1BUkdJTjogMTBweCI+DQo8RElWPjxGT05UIHNpemU9MiBmYWNlPVZl
+cmRhbmE+ztLKx8C019RhYWG1xNDFz6I8L0ZPTlQ+PC9ESVY+DQo8RElWPjxGT05UIHNpemU9MiBm
+YWNlPVZlcmRhbmE+PC9GT05UPiZuYnNwOzwvRElWPg0KPERJViBhbGlnbj1sZWZ0PjxGT05UIGNv
+bG9yPSNjMGMwYzAgc2l6ZT0yIGZhY2U9VmVyZGFuYT4yMDE5LTA4LTAyIA0KPC9GT05UPjwvRElW
+PjxGT05UIHNpemU9MiBmYWNlPVZlcmRhbmE+DQo8SFIgc3R5bGU9IkhFSUdIVDogMnB4OyBXSURU
+SDogMTIycHgiIGFsaWduPWxlZnQgU0laRT0yPg0KDQo8RElWPjxGT05UIGNvbG9yPSNjMGMwYzAg
+c2l6ZT0yIGZhY2U9VmVyZGFuYT48U1BBTj5hYWE8L1NQQU4+IA0KPC9GT05UPjwvRElWPjwvRk9O
+VD48L0JPRFk+PC9IVE1MPg0K
+
+--=====003_Dragon535367047255_=====--
+
+

@@ -1,0 +1,5 @@
+[System]
+Index=4
+2019/11/19 21:52:03 127.0.0.1 mail from admin@store.com to 1232@qq.com in queue.
+2019/11/19 21:56:21 127.0.0.1 mail from admin@store.com to aaa@store.com successfully
+2019/11/19 22:00:49 MailUndeliverable mail from admin to admin@store.com successfully

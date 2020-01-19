@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>6.下载</title>
+	</head>
+	<body>
+		<outline text="伊甸园BT下载区" title="伊甸园BT下载区" type="rss" version="RSS" xmlUrl="http://bt.ydy.com/rss.php" htmlUrl="" description=""/>
+		<outline text="VeryCD - eMule资源" title="VeryCD - eMule资源" type="rss" version="RSS" xmlUrl="http://lib.verycd.com/feeds/rss.xml" htmlUrl="http://lib.verycd.com/" description=""/>
+		<outline text="免费游戏下载" title="5igames游戏下载" type="rss" version="RSS" xmlUrl="http://www.5igames.net/rss/gamedown.xml" htmlUrl="http://www.5igames.net" description=""/>
+	</body>
+</opml>
